@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="67.067989"
-     inkscape:cy="-11.339296"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="33.398728"
+     inkscape:cy="63.161291"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg5470"
+     inkscape:current-layer="g6704"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:window-width="1879"
@@ -37,8 +37,30 @@
      inkscape:window-x="1961"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     showguides="false"
+     inkscape:guide-bbox="true"
+     guidetolerance="1">
+    <sodipodi:guide
+       position="18.463601,17.761595"
+       orientation="0,1"
+       id="guide7869" />
+    <sodipodi:guide
+       position="13.693344,10.555462"
+       orientation="1,0"
+       id="guide7871" />
+    <sodipodi:guide
+       position="15.804444,8.7488888"
+       orientation="1,0"
+       id="guide7873" />
+    <sodipodi:guide
+       position="14.560279,13.908476"
+       orientation="0,1"
+       id="guide7875" />
+    <sodipodi:guide
+       position="13.820213,10.005699"
+       orientation="0,1"
+       id="guide7877" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5467">
     <rdf:RDF>
@@ -70,7 +92,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Logo"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-277)">
     <path
        transform="translate(0,8.9583334e-6)"
@@ -129,15 +151,15 @@
     <text
        sodipodi:linespacing="125%"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90972757px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23891759px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="7.4604168"
-       y="282.71185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.7311635px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23891759px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7.0611339"
+       y="283.09161"
        id="text6708"><tspan
          sodipodi:role="line"
          id="tspan6710"
-         x="7.4604168"
-         y="282.71185"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93888903px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;stroke-width:0.23891759px">DE</tspan></text>
+         x="7.0611339"
+         y="283.09161"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.49857855px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;stroke-width:0.23891759px">DE</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path6712"

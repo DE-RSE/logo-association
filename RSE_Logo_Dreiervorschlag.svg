@@ -13,11 +13,14 @@
    height="135mm"
    viewBox="0 0 200 135"
    version="1.1"
-   id="svg4929"
+   id="svg5470"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="RSE_Logo_Dreiervorschlag.svg">
+   sodipodi:docname="RSE_Logo_Dreiervorschlag.svg"
+   inkscape:export-filename="F:\Projects\RSE\Logo_choice.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
-     id="defs4923" />
+     id="defs5464" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,19 +28,33 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="346.02558"
-     inkscape:cy="189.36961"
+     inkscape:zoom="0.5"
+     inkscape:cx="328.92729"
+     inkscape:cy="44.599207"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
+     inkscape:snap-page="true"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="true"
+     showguides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4652" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata4926">
+     id="metadata5467">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -49,21 +66,40 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-162)">
+     id="layer3"
+     inkscape:label="Background"
+     style="display:inline"
+     transform="translate(0,110)"
+     sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07331264;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="opacity:1;fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07331264;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect4905"
        width="200"
        height="135"
-       x="5.6213381e-009"
-       y="162" />
+       x="0"
+       y="-110.00001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="0"
+       y="-110"
+       id="text11794"><tspan
+         sodipodi:role="line"
+         id="tspan11792"
+         x="0"
+         y="-103.51528"
+         style="stroke-width:0.26458332px" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logos"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
-       style="display:inline"
        id="g6225"
-       transform="translate(24.695705,162.00001)">
+       transform="translate(24.695704)">
       <text
          id="text4724"
          y="20.817379"
@@ -88,9 +124,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       style="display:inline"
        id="g6030"
-       transform="translate(24.695705,208.56178)">
+       transform="translate(24.695704,46.561774)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.54523301px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7e2560;fill-opacity:0.94117647;stroke:none;stroke-width:0.12258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -155,9 +190,8 @@
            style="fill:#621e4b;fill-opacity:1;stroke-width:0.26458332px">S</tspan></text>
     </g>
     <g
-       style="display:inline"
        id="g6004"
-       transform="translate(24.695705,138.41643)">
+       transform="translate(24.695704,-23.583575)">
       <text
          id="text5759"
          y="42.169273"
@@ -222,9 +256,8 @@
            sodipodi:role="line">S</tspan></text>
     </g>
     <g
-       style="display:inline"
        id="g6197"
-       transform="translate(24.695705,212.49515)">
+       transform="translate(24.695704,50.495138)">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#621e4b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118;paint-order:stroke markers fill"
@@ -283,9 +316,8 @@
          style="opacity:1;fill:#892968;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118;paint-order:stroke markers fill" />
     </g>
     <g
-       style="display:inline"
        id="g6219"
-       transform="translate(24.695705,162.39127)">
+       transform="translate(24.695704,0.39126288)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90972757px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23891759px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -310,8 +342,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       style="display:inline"
-       transform="translate(24.695705,205.8137)"
+       transform="translate(24.695704,43.813693)"
        id="g6235">
       <text
          id="text6231"
@@ -337,8 +368,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       style="display:inline"
-       transform="translate(24.695705,138.41643)"
+       transform="translate(24.695704,-23.583575)"
        id="g6261">
       <text
          xml:space="preserve"
@@ -404,8 +434,7 @@
            style="fill:#621e4b;fill-opacity:1;stroke-width:0.26458332px">S</tspan></text>
     </g>
     <g
-       style="display:inline"
-       transform="translate(24.695705,208.56178)"
+       transform="translate(24.695704,46.561774)"
        id="g6287">
       <text
          id="text6265"
@@ -471,8 +500,7 @@
            sodipodi:role="line">S</tspan></text>
     </g>
     <g
-       style="display:inline"
-       transform="translate(24.695705,212.49515)"
+       transform="translate(24.695704,50.495138)"
        id="g6311">
       <path
          id="path6289"
@@ -531,38 +559,45 @@
          id="path6309"
          inkscape:connector-curvature="0" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Numbers"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="9.5622272"
-       y="187.14378"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="9.5622253"
+       y="25.143764"
        id="text11799"><tspan
          sodipodi:role="line"
          id="tspan11797"
-         x="9.5622272"
-         y="187.14378"
+         x="9.5622253"
+         y="25.143764"
          style="stroke-width:0.26458332px">1</tspan></text>
     <text
        id="text11803"
-       y="230.58385"
-       x="8.5215321"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="68.583839"
+       x="8.5215311"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332px"
-         y="230.58385"
-         x="8.5215321"
+         y="68.583839"
+         x="8.5215311"
          id="tspan11801"
          sodipodi:role="line">2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="8.7931709"
-       y="273.96747"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.79317"
+       y="111.96746"
        id="text11807"><tspan
          sodipodi:role="line"
          id="tspan11805"
-         x="8.7931709"
-         y="273.96747"
+         x="8.79317"
+         y="111.96746"
          style="stroke-width:0.26458332px">3</tspan></text>
   </g>
 </svg>

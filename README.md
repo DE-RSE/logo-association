@@ -6,7 +6,7 @@ This repository holds the logo for
 ![RSE_logo.svg]
 
 The logo is in the public domain, licensed under a 
-[Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/), see <LICENSE.md>.
+[Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/), see [LICENSE.md](LICENSE.md).
 
 It has been created by [Daniel Beiter](@baender) with contributions from the
 [community](https://github.com/DE-RSE/logo-association/graphs/contributors).
@@ -64,5 +64,5 @@ easily re-usable by other national RSE associations.
 
 We provide the logo as two SVG files:
 
-- <de-RSE-logo-colour.svg>, containing the colour version of the logo
-- <de-RSE-logo-grayscale.svg>, containing the grayscale version of the logo
+- [de-RSE-logo-colour.svg](de-RSE-logo-colour.svg), containing the colour version of the logo
+- [de-RSE-logo-grayscale.svg](de-RSE-logo-grayscale.svg), containing the grayscale version of the logo

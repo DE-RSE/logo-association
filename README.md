@@ -11,7 +11,7 @@ It is provided in two SVG files:
 The logo is in the public domain, licensed under a 
 [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/), see [LICENSE.md](LICENSE.md).
 
-It has been created by [Daniel Beiter](@baender) with contributions from the
+It has been created by [Daniel Beiter](https://github.com/baender) with contributions from the
 [community](https://github.com/DE-RSE/logo-association/graphs/contributors).
 
 ## Concept

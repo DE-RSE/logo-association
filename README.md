@@ -3,7 +3,10 @@
 This repository holds the logo for 
 [de-RSE e.V. - Gesellschaft für Forschungssoftware](https://de-rse.org).
 
-![RSE_logo.svg]
+It is provided in two SVG files:
+
+- [de-RSE-logo-colour.svg](de-RSE-logo-colour.svg), containing the colour version of the logo
+- [de-RSE-logo-grayscale.svg](de-RSE-logo-grayscale.svg), containing the grayscale version of the logo
 
 The logo is in the public domain, licensed under a 
 [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/), see [LICENSE.md](LICENSE.md).

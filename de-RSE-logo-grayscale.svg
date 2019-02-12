@@ -13,7 +13,7 @@
    height="21.525724mm"
    width="132.40863mm"
    sodipodi:docname="de-RSE-logo-grayscale.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,16 +23,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-width="1879"
+     inkscape:window-height="1056"
      id="namedview64"
      showgrid="false"
      inkscape:object-paths="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="86.241924"
-     inkscape:cy="72.023415"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="86.055855"
+     inkscape:cy="72.039539"
+     inkscape:window-x="1961"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg9275" />
   <defs
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,18 +74,19 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.99999619px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="139.09492"
      y="32.056786"
-     id="text4724"><tspan
+     id="text4724"
+     sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4722"
        x="139.09492"
        y="32.056786"
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Light';letter-spacing:0px;word-spacing:0px;stroke-width:0.93749988px"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';letter-spacing:0px;word-spacing:0px;stroke-width:0.93749988px;font-size:24.99999851px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
        dx="0"
        dy="0">GESELLSCHAFT FÜR </tspan><tspan
        sodipodi:role="line"
        x="139.09492"
        y="63.306782"
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Light';letter-spacing:0px;word-spacing:0px;stroke-width:0.93749988px"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';letter-spacing:0px;word-spacing:0px;stroke-width:0.93749988px;font-size:24.99999851px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
        id="tspan4726">FORSCHUNGSSOFTWARE</tspan></text>
   <path
      style="opacity:1;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.31496;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118;paint-order:stroke markers fill"
@@ -127,8 +128,9 @@
      y="46.929859"
      x="64.267822"
      style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:24.99999619px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.93749988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#262626;fill-opacity:1;stroke-width:0.93749988px;"
+     xml:space="preserve"
+     sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';fill:#262626;fill-opacity:1;stroke-width:0.93749988px;font-size:24.99999851px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
        y="46.929859"
        x="64.267822"
        id="tspan4698"
@@ -153,12 +155,13 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.76845551px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.74131709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      x="10.289557"
      y="23.68379"
-     id="text4706"><tspan
+     id="text4706"
+     sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4704"
        x="10.289557"
        y="23.68379"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.49999809px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#262626;fill-opacity:1;stroke-width:0.74131709px;">de</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999896px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';fill:#262626;fill-opacity:1;stroke-width:0.74131709px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">de</tspan></text>
   <path
      inkscape:connector-curvature="0"
      id="path5573"

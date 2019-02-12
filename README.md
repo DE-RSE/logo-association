@@ -69,9 +69,9 @@ We provide the logo as two SVG files:
 
 ## Specifications
 
-The *de* lowercasez superscript prefix is set in Montserrat Normal at 14pt. The upper bound
+The *de* lowercase superscript prefix is set in Montserrat Normal at 14pt. The upper bound
 of the letter *d* aligns horizontally with the upper bound of the "hexagon" logo.
-The center of the letter *e* aligns verticalls with the left bound of the
+The center of the letter *e* aligns vertically with the left bound of the
 "hexagon" logo.
 
 The letters *R* and *E* cutouts in the "hexagon" logo are based on the respective 
@@ -92,7 +92,7 @@ The colour values of the purple tiles of the "hexagon" logo are (RGBA)
 - R 98, G 30, B 75, A 255 (`621e4bff`, left lower, right upper, grayscale: `262626ff`)
 
 The vertical dividing rule aligned horizontally with the upper and lower bounds
-of the "hexagon" logo. Its volor is black (`000000ff`). It is centred vertically
+of the "hexagon" logo. Its colour is black (`000000ff`). It is centred vertically
 between the "hexagon" logo and the text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE".
 
 The text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE" is set in Montserrat Light at 20pt,

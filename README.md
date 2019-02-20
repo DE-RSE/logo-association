@@ -6,7 +6,7 @@ This repository holds the logo for
 It is provided in four SVG files:
 
 - [de-RSE-logo-text-colour.svg](de-RSE-logo-colour.svg), containing the colour version of the logo
-- [de-RSE-logo-tex-tgrayscale.svg](de-RSE-logo-grayscale.svg), containing the grayscale version of the logo
+- [de-RSE-logo-text-grayscale.svg](de-RSE-logo-grayscale.svg), containing the grayscale version of the logo
 - [de-RSE-logo-only-colour.svg](de-RSE-logo-only-colour.svg), containing the colour version of the logo without text
 - [de-RSE-logo-only-grayscale.svg](de-RSE-logo-only-grayscale.svg), containing the grayscale version of the logo without text
 

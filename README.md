@@ -3,10 +3,12 @@
 This repository holds the logo for 
 [de-RSE e.V. - Gesellschaft für Forschungssoftware](https://de-rse.org).
 
-It is provided in two SVG files:
+It is provided in four SVG files:
 
 - [de-RSE-logo-colour.svg](de-RSE-logo-colour.svg), containing the colour version of the logo
 - [de-RSE-logo-grayscale.svg](de-RSE-logo-grayscale.svg), containing the grayscale version of the logo
+- [de-RSE-logo-only-colour.svg](de-RSE-logo-only-colour.svg), containing the colour version of the logo without text
+- [de-RSE-logo-only-grayscale.svg](de-RSE-logo-only-grayscale.svg), containing the grayscale version of the logo without text
 
 The logo is in the public domain, licensed under a 
 [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/), see [LICENSE.md](LICENSE.md).
@@ -64,8 +66,3 @@ for the *R* and *E* letters of the logo.
 The *de* prefix can be easily replaced by other 
 [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-3) codes, making the logo 
 easily re-usable by other national RSE associations.
-
-We provide the logo as two SVG files:
-
-- [de-RSE-logo-colour.svg](de-RSE-logo-colour.svg), containing the colour version of the logo
-- [de-RSE-logo-grayscale.svg](de-RSE-logo-grayscale.svg), containing the grayscale version of the logo

@@ -57,7 +57,7 @@ can be represented in colour, grayscale and b/w, transports the RSE concept
 through its intersectionary nature, plays on computing symbolism (`< >`), can
 be represented as ASCII art, `<R<S>E>`, and uses an openly licensed fonts:
 
-- The lightweight [Montserrat](https://github.com/JulietaUla/Montserrat) font 
+- The lightweight [Montserrat](https://github.com/JulietaUla/Montserrat) font release v7.200
 (SIL Open Font License 1.1) contrasts the bulky main logo.
 
 The *de* prefix can be easily replaced by other 
@@ -92,8 +92,29 @@ The vertical dividing rule aligned horizontally with the upper and lower bounds
 of the "hexagon" logo. Its colour is black (`000000ff`). It is centred vertically
 between the "hexagon" logo and the text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE".
 
-The text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE" is set in Montserrat Light at 20pt,
+The text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE" is set in Montserrat Normal at 20pt,
 with a line-spacing of 1.25. It is black (`000000ff`), and centre-aligned with
 the "hexagon" logo.
 
 ![](concept/specs.png)
+
+## Editing the logo
+
+The SVG contains several (also invisible) layers that facilitate modification, e.g. changing the prefix or the text.
+The visible text was converted into paths to avoid incorrect rendering by the browser.
+However, for both (prefix and text) exist additional layers with the original text objects that can be easily changed.
+For necessary alignment a layer with helper lines is included.
+
+How to change the text (in inkscape):
+
+1. Set the layer "Text_editable" to visible (you see a green text)
+2. Duplicate that layer and set the original to invisible again
+3. Change the text as you wish (Shortcut F8)
+4. Change the colour to the one of layer "Text_as_path" (Shortcut d)
+5. Select the text and go to: Path -> Object to path
+6. Delete "Text_as_path" layer and rename your layer to "Text_as_path"
+7. Move the new "Text_as_path" layer right below "Text_editable"
+8. In case you need an alignment, you can use the "Helper_lines_alignment" layer
+9. Lock everything and save
+
+Proceed analogously for the prefix.

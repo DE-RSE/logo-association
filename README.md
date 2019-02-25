@@ -97,7 +97,7 @@ The text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE" is set in Montserrat Light at 20
 with a line-spacing of 1.25. It is black (`000000ff`), and centre-aligned with
 the "hexagon" logo.
 
-![](concept/specs.png)
+![](concept/de-RSE-logo-text-colour_specs.png)
 
 ## Editing the logo
 

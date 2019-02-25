@@ -29,12 +29,12 @@
      showgrid="false"
      inkscape:object-paths="true"
      inkscape:zoom="1.7286111"
-     inkscape:cx="55.114266"
-     inkscape:cy="40.610139"
+     inkscape:cx="237.65763"
+     inkscape:cy="13.825731"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4725" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs4763" />
   <metadata
@@ -52,11 +52,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Logo_as_path"
+     inkscape:label="Logo"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
-       id="g5052">
+       id="g4601">
       <path
          inkscape:connector-curvature="0"
          id="path4669"
@@ -97,21 +97,6 @@
          id="path4677"
          d="m 21.131798,2.24698 3.578076,6.19808 3.578593,-6.19808 z"
          style="opacity:1;fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647;paint-order:stroke markers fill" />
-      <g
-         id="text5346"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         aria-label="de">
-        <path
-           id="path4576"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#404040;fill-opacity:1;stroke-width:0.26458332px"
-           d="m 5.3554763,2.2469654 v 1.560689 C 5.1381652,3.4718099 4.7825652,3.2940099 4.3676985,3.2940099 c -0.7408334,0 -1.2939889,0.5334 -1.2939889,1.3186834 0,0.7852833 0.5531555,1.3236222 1.2939889,1.3236222 0.4296833,0 0.7902222,-0.1876777 1.0025945,-0.5383389 V 5.9116211 H 5.7061374 V 2.2469654 Z M 4.3973318,5.6251655 c -0.5531556,0 -0.9680222,-0.4049889 -0.9680222,-1.0124722 0,-0.6074834 0.4148666,-1.0124723 0.9680222,-1.0124723 0.5482167,0 0.9630834,0.4049889 0.9630834,1.0124723 0,0.6074833 -0.4148667,1.0124722 -0.9630834,1.0124722 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path4578"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#404040;fill-opacity:1;stroke-width:0.26458332px"
-           d="m 8.9496755,4.6126933 c 0,-0.7803445 -0.5284611,-1.3186834 -1.2594167,-1.3186834 -0.7309556,0 -1.2692945,0.5482167 -1.2692945,1.3186834 0,0.7704667 0.5531556,1.3236222 1.3631334,1.3236222 0.4099278,0 0.7704667,-0.1481666 1.0025945,-0.4247444 L 8.5891366,5.2843822 C 8.391581,5.5115711 8.1100644,5.6251655 7.7939755,5.6251655 c -0.5679723,0 -0.982839,-0.3605389 -1.0223501,-0.9038167 h 2.1731112 c 0,-0.039511 0.00494,-0.079022 0.00494,-0.1086555 z M 7.6902588,3.5952821 c 0.5087056,0 0.8791222,0.3556001 0.9235722,0.8643056 H 6.7716254 C 6.8160754,3.9508822 7.1864921,3.5952821 7.6902588,3.5952821 Z"
-           inkscape:connector-curvature="0" />
-      </g>
       <g
          id="text5362"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -165,8 +150,30 @@
     </g>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Prefix_as_path"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <g
+       aria-label="de"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text5346">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 5.3554763,2.2469654 v 1.560689 C 5.1381652,3.4718099 4.7825652,3.2940099 4.3676985,3.2940099 c -0.7408334,0 -1.2939889,0.5334 -1.2939889,1.3186834 0,0.7852833 0.5531555,1.3236222 1.2939889,1.3236222 0.4296833,0 0.7902222,-0.1876777 1.0025945,-0.5383389 V 5.9116211 H 5.7061374 V 2.2469654 Z M 4.3973318,5.6251655 c -0.5531556,0 -0.9680222,-0.4049889 -0.9680222,-1.0124722 0,-0.6074834 0.4148666,-1.0124723 0.9680222,-1.0124723 0.5482167,0 0.9630834,0.4049889 0.9630834,1.0124723 0,0.6074833 -0.4148667,1.0124722 -0.9630834,1.0124722 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#404040;fill-opacity:1;stroke-width:0.26458332px"
+         id="path4576" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 8.9496755,4.6126933 c 0,-0.7803445 -0.5284611,-1.3186834 -1.2594167,-1.3186834 -0.7309556,0 -1.2692945,0.5482167 -1.2692945,1.3186834 0,0.7704667 0.5531556,1.3236222 1.3631334,1.3236222 0.4099278,0 0.7704667,-0.1481666 1.0025945,-0.4247444 L 8.5891366,5.2843822 C 8.391581,5.5115711 8.1100644,5.6251655 7.7939755,5.6251655 c -0.5679723,0 -0.982839,-0.3605389 -1.0223501,-0.9038167 h 2.1731112 c 0,-0.039511 0.00494,-0.079022 0.00494,-0.1086555 z M 7.6902588,3.5952821 c 0.5087056,0 0.8791222,0.3556001 0.9235722,0.8643056 H 6.7716254 C 6.8160754,3.9508822 7.1864921,3.5952821 7.6902588,3.5952821 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#404040;fill-opacity:1;stroke-width:0.26458332px"
+         id="path4578" />
+    </g>
+  </g>
+  <g
      style="display:none"
-     inkscape:label="Logo_prefix_editable"
+     inkscape:label="Prefix_editable"
      id="g4885"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
@@ -368,7 +375,8 @@
      style="display:none"
      inkscape:label="Text_editable"
      id="g4725"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        id="text4721"
        y="8.0588989"

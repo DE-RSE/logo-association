@@ -105,7 +105,7 @@ The visible text was converted into paths to avoid incorrect rendering by the br
 However, for both (prefix and text) exist additional layers with the original text objects that can be easily changed.
 For necessary alignment a layer with helper lines is included.
 
-How to change the text (in inkscape):
+How to change the text (in inkscape; you need to have installed [Montserrat v7.200](https://github.com/JulietaUla/Montserrat/releases/tag/v7.200)):
 
 1. Set the layer "Text_editable" to visible (you see a green text)
 2. Duplicate that layer and set the original to invisible again

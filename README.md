@@ -50,7 +50,8 @@ The colour version of the logo acknowledges the pioneering role of the [UK
 Research Software Engineering community and its association](https://rse.ac.uk/), 
 by taking up its colour scheme.
 
-![](concept/logo.png)
+![](concept/de-RSE-logo-text-colour.png)
+![](concept/de-RSE-logo-text-grayscale.png)
 
 The final version of the logo is based on simple geometries, is easy to draw,
 can be represented in colour, grayscale and b/w, transports the RSE concept 
@@ -92,7 +93,7 @@ The vertical dividing rule aligned horizontally with the upper and lower bounds
 of the "hexagon" logo. Its colour is black (`000000ff`). It is centred vertically
 between the "hexagon" logo and the text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE".
 
-The text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE" is set in Montserrat Normal at 20pt,
+The text "GESELLSCHAFT FÜR FORSCHUNGSSOFTWARE" is set in Montserrat Light at 20pt,
 with a line-spacing of 1.25. It is black (`000000ff`), and centre-aligned with
 the "hexagon" logo.
 

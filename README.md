@@ -57,7 +57,7 @@ can be represented in colour, grayscale and b/w, transports the RSE concept
 through its intersectionary nature, plays on computing symbolism (`< >`), can
 be represented as ASCII art, `<R<S>E>`, and uses an openly licensed fonts:
 
-- The lightweight [Montserrat](https://github.com/JulietaUla/Montserrat) font release v7.200
+- The lightweight [Montserrat v7.200](https://github.com/JulietaUla/Montserrat/releases/tag/v7.200)
 (SIL Open Font License 1.1) contrasts the bulky main logo.
 
 The *de* prefix can be easily replaced by other 

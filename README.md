@@ -110,12 +110,13 @@ How to change the text (in inkscape; you need to have installed [Montserrat v7.2
 
 1. Set the layer "Text_editable" to visible (you see a green text)
 2. Duplicate that layer and set the original to invisible again
-3. Change the text as you wish (Shortcut F8)
-4. Change the colour to the one of layer "Text_as_path" (Shortcut d)
-5. Select the text and go to: Path -> Object to path
-6. Delete "Text_as_path" layer and rename your layer to "Text_as_path"
-7. Move the new "Text_as_path" layer right below "Text_editable"
-8. In case you need an alignment, you can use the "Helper_lines_alignment" layer
-9. Lock everything and save
+3. Make the copied layer editable by clicking the lock symbol in the layer view
+4. Change the text as you wish (Shortcut F8)
+5. Change the colour to the one of layer "Text_as_path" (Shortcut d)
+6. Select the text and go to: Path -> Object to path
+7. Delete "Text_as_path" layer and rename your layer to "Text_as_path"
+8. Move the new "Text_as_path" layer right below "Text_editable"
+9. In case you need an alignment, you can use the "Helper_lines_alignment" layer
+10. Lock everything and save
 
 Proceed analogously for the prefix.

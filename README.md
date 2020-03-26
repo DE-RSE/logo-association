@@ -120,3 +120,7 @@ How to change the text (in inkscape; you need to have installed [Montserrat v7.2
 10. Lock everything and save
 
 Proceed analogously for the prefix.
+
+### Exporting logo to PDF
+
+From a Linux command line, run `inkscape --file=<de-RSE-logo file you want to convert>.svg --export-area-drawing --without-gui --export-pdf=output.pdf`.

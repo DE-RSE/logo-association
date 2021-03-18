@@ -34,7 +34,7 @@ $(OUTDIR):
 # define make targets for different png sizes from the list PNG_HEIGHTS
 define png_target =
 $$(OUTDIR)/%_$(1).png: %.svg $(OUTDIR)
-	$$(INKSCAPE) -D --export-height=$(1) -e $$@ $$<
+	$$(INKSCAPE) --export-area-page -D --export-height=$(1) -e $$@ $$<
 endef
 $(foreach HEIGHT, $(PNG_HEIGHTS), $(eval $(call png_target,$(HEIGHT))))
 

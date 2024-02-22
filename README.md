@@ -47,7 +47,7 @@ the research and the software engineering communities (itself a research
 community), which materialize in Research Software Engineering.
 
 The colour version of the logo acknowledges the pioneering role of the [UK
-Research Software Engineering community and its association](https://rse.ac.uk/), 
+Research Software Engineering community and its association](https://society-rse.org/), 
 by taking up its colour scheme.
 
 ![](concept/de-RSE-logo-text-colour.png)

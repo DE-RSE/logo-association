@@ -34,10 +34,10 @@ $(OUTDIR):
 # define make targets for different png sizes from the list PNG_HEIGHTS
 define png_target =
 $$(OUTDIR)/%_$(1).png: %.svg $(OUTDIR)
-	$$(INKSCAPE) --export-area-page -D --export-height=$(1) -e $$@ $$<
+	$$(INKSCAPE) --export-area-page -D --export-height=$(1) --export-filename=$$@ $$<
 endef
 $(foreach HEIGHT, $(PNG_HEIGHTS), $(eval $(call png_target,$(HEIGHT))))
 
 $(OUTDIR)/%.pdf: %.svg $(OUTDIR)
-	$(INKSCAPE) -D -A $@ $<
+	$(INKSCAPE) --export-area-drawing --export-filename=$@ $<
 

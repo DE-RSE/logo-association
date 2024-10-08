@@ -13,7 +13,7 @@ OUTDIR   :=build
 SVG := $(wildcard *.svg)
 
 # output
-PNG_HEIGHTS := 32 48 64 128 256 512 1000
+PNG_HEIGHTS := 32 48 64 128 256 512 1000 1024
 PNG := $(foreach HEIGHT, $(PNG_HEIGHTS), $(addprefix $(OUTDIR)/,$(SVG:.svg=_$(HEIGHT).png)))
 
 PDF := $(addprefix $(OUTDIR)/,$(SVG:.svg=.pdf))
